@@ -23,11 +23,8 @@ This project demonstrates a **Convolutional Neural Network (CNN)** built with **
 git clone https://github.com/your-username/DigitClassifier.git
 ```
 
-or [Download ZIP](https://github.com/your-username/DigitClassifier/archive/refs/heads/main.zip)
+or [Download ZIP](https://github.com/Likuna06/DigitClassifier/archive/refs/heads/main.zip)
 
-> Replace `your-username` with your actual GitHub username once uploaded.
-
----
 
 ## 🛠️ How to Run
 
@@ -71,7 +68,7 @@ pip install tensorflow numpy matplotlib jupyter
 ## 🙋‍♂️ Author
 
 **Likuna**  
-GitHub: [@your-username](https://github.com/your-username)  
+GitHub: [@Likun06](https://github.com/Likuna06)  
 Intern @ Tamizhan Skills
 
 ---
