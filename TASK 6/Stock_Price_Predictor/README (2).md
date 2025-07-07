@@ -55,7 +55,7 @@ This project was developed as part of the **RISE Internship Program by Damizan S
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/stock-price-lstm.git
+   git clone https://github.com/Likuna06/stock-price-lstm.git
    cd stock-price-lstm
    ```
 
@@ -73,11 +73,6 @@ This project was developed as part of the **RISE Internship Program by Damizan S
 
 ---
 
-## 📷 Screenshots
-
-![App Screenshot](https://your-image-link-if-hosted.com)
-
----
 
 ## 🎓 What I Learned
 
@@ -90,15 +85,15 @@ This project was developed as part of the **RISE Internship Program by Damizan S
 
 ## 🙏 Acknowledgment
 
-Big thanks to **Damizan Skills** and the **RISE Internship Program** for the guidance and support throughout the project.
+Big thanks to **Tamizan Skills** and the **RISE Internship Program** for the guidance and support throughout the project.
 
 ---
 
 ## 📬 Contact
 
-**Satya Prakash Rout**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+**Likuna Swain**  
+📧 [likunaswain2@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/likuna-swain-b25208346/)  
 🐍 Passionate about AI | Open to opportunities
 
 ---
