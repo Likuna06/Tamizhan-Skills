@@ -20,7 +20,7 @@ This project demonstrates a **Convolutional Neural Network (CNN)** built with **
 ## 📥 Download / Clone
 
 ```
-git clone https://github.com/your-username/DigitClassifier.git
+git clone https://github.com/Likuna06/DigitClassifier.git
 ```
 
 or [Download ZIP](https://github.com/Likuna06/DigitClassifier/archive/refs/heads/main.zip)
