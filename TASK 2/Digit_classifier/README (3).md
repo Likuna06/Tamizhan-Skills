@@ -65,7 +65,7 @@ pip install tensorflow numpy matplotlib jupyter
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋🏻‍♀️ Author
 
 **Likuna**  
 GitHub: [@Likun06](https://github.com/Likuna06)  
