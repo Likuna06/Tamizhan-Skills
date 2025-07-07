@@ -55,7 +55,7 @@ This project was built as part of the **RISE Internship Program by Damizan Skill
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/emotion-detector-app.git
+   git clone https://github.com/Likuna06/emotion-detector-app.git
    cd emotion-detector-app
    ```
 
@@ -90,9 +90,9 @@ Special thanks to **Damizan Skills** and the **RISE Internship** for enabling th
 
 ## 📬 Contact
 
-**Satya Prakash Rout**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+**Likuna Swain**  
+📧 [likunaswain2@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/likuna-swain-b25208346/)  
 🔍 NLP | ML | AI Enthusiast | Open to Collaboration
 
 ---
